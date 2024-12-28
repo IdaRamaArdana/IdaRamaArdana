@@ -6,7 +6,7 @@
   <p>
     <a href="https://www.linkedin.com/in/ida-bagus-kade-rama-ardana-720376310/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
     <a href="https://medium.com/@idaramaardana" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/> </a>
-    <a href="https://instagram.com/yourprofile" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
+    <a href="https://instagram.com/DeadNetworkyz" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
   </p>
 </div>
 
@@ -15,17 +15,17 @@
 ## 📊 Statistics
 
 ### GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=DeadNetworkyz&show_icons=true&theme=radical)
 
 ### Most Used Languages
-![Always on](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Always on](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadNetworkyz&layout=compact&theme=radical)
 
 ---
 
 ## 🔍 View
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DeadNetworkyz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/ID-35434B?style=flat-square&logo=bitcoin&logoColor=white" alt="ID" />
-  <img src="https://img.shields.io/badge/Rank-Script%20Kiddie-red?style=flat-square" alt="Rank" />
+  <img src="https://img.shields.io/badge/Rank-Amateur%20ScriptKiddie-red?style=flat-square" alt="Rank" />
 </p>
 
 ---
