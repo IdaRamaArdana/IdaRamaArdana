@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Yooo 👋 DeadNetworkyz here!!</h1>
   <p>🌟 Passionate on technology, developer and cyber security enthusiast!</p>
-  <p>I'm currently active on CTF, Cyber Security, Network Engineering and Research of Security Risk, just leave me alone, when i'm offline!!</p>p
+  <p>I'm currently active on CTF, Cyber Security, Network Engineering and Research of Security Risk, just leave me alone, when i'm offline!!</p>
 
   <!-- About me -->
   <p>
