@@ -1,5 +1,6 @@
 <h1 align="center">Yooo 👋 DeadNetworkyz here!!</h1>
-<h3 align="center">🌟 Passionate on technology, developer and cyber security enthusiast! I'm currently active on CTF, Cyber Security, Network Engineering and Research of Security Risk, just leave me alone, when i'm offline!!</h3>
+<h3 align="center">🌟 Passionate on technology, developer and cyber security enthusiast!</h3>
+<h3 align="center"> I'm currently active on CTF, Cyber Security, Network Engineering and Research of Security Risk, just leave me alone, when i'm offline!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idaramaardana&label=Profile%20views&color=0e75b6&style=flat" alt="idaramaardana" /> </p>
 
