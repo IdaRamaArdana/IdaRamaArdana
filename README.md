@@ -16,10 +16,10 @@
 ## 📊 Statistics
 
 ### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=IdaRamaArdana&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=DeadNetworkyz&show_icons=true&theme=radical)
 
 ### Most Used Languages
-![Always on](https://github-readme-stats.vercel.app/api/top-langs/?username=IdaRamaArdana&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadNetworkyz&layout=compact&theme=radical)
 
 ---
 
