@@ -14,27 +14,20 @@
 
 <h3 align="left">Grind Till The Edge:</h3>
 
-<!-- TryHackMe Badge -->
 <p align="left">
   <a href="https://tryhackme.com/p/deadnwkyz" target="_blank">
-    <img 
-      src="https://tryhackme-badges.s3.amazonaws.com/deadnwkyz.png" 
-      alt="TryHackMe Badge"
-      height="120"
-    />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/deadnwkyz.png" 
+         alt="TryHackMe Badge" width="300">
   </a>
 </p>
 
-<!-- HackTheBox Badge -->
 <p align="left">
-  <a href="https://app.hackthebox.com/users/1845015" target="_blank">
-    <img 
-      src="https://app.hackthebox.com/badge/1845015"
-      alt="HackTheBox Badge"
-      height="120"
-    />
+  <a href="https://app.hackthebox.com/public/users/1845015" target="_blank">
+    <img src="https://www.hackthebox.com/images/atoms/logo/htb-logo.svg" 
+         alt="HackTheBox Logo" width="150">
   </a>
 </p>
+
 
 
 
