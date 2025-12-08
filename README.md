@@ -23,8 +23,8 @@
 
 <p align="left">
   <a href="https://app.hackthebox.com/public/users/1845015" target="_blank">
-    <img src="https://www.hackthebox.com/images/atoms/logo/htb-logo.svg" 
-         alt="HackTheBox Logo" width="150">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hack_The_Box_logo.png" 
+         alt="HackTheBox" height="80" />
   </a>
 </p>
 
