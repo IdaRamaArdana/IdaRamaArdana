@@ -19,9 +19,7 @@
   </a>
 </p>
 <p align="left">
-  <a href="https://app.hackthebox.com/users/1845015" target="(https://www.hackthebox.com/badge/user/1845015)">
-    <img src="https://www.hackthebox.com/badge/user/1845015" alt="HackTheBox Badge" />
-  </a>
+  <img src="https://www.hackthebox.com/badge/1845015" alt="HackTheBox Badge" />
 </p>
 
 
