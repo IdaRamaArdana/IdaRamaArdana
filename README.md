@@ -17,6 +17,9 @@
   <a href="https://tryhackme.com/p/deadnwkyz" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/deadnwkyz.png" alt="TryHackMe Badge" />
   </a>
+<a href="https://app.hackthebox.com/users/1845015">
+  <img src="https://www.hackthebox.com/badge/1845015" alt="HackTheBox Badge">
+</a>
 </p>
 
 
