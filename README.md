@@ -14,8 +14,12 @@
 
 <h3 align="left">Grind Till The Edge:</h3>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2753401" style='border:none;'></iframe>
-
+<p align="left">
+  <a href="https://tryhackme.com/p/deadnwkyz" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/deadnwkyz.png" 
+         alt="TryHackMe Badge" width="300">
+  </a>
+</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" 
