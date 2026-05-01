@@ -180,20 +180,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/idaramaardana">
-    <img src="https://github-readme-stats.vercel.app/api?username=idaramaardana&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  </a>
-
-  <a href="https://github.com/idaramaardana">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idaramaardana&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  </a>
-</p>
-
----
-
 <div align="center">
 
 ### IT SOLUTION • CYBER SECURITY • NETWORKING • TECHNICIAN
