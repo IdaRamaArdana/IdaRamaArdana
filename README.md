@@ -1,31 +1,148 @@
-<h1 align="center">Yooo 👋 DeadNetworkyz here!!</h1>
-<h3 align="center">🌟 Passionate on technology, developer and cyber security enthusiast!</h3>
-<h3 align="center"> I'm currently active on CTF, Cyber Security, Network Engineering and Research of Security Risk, just leave me alone, when i'm offline!!</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idaramaardana&label=Profile%20views&color=0e75b6&style=flat" alt="idaramaardana" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=220&section=header&text=DeadNetworkyz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Enthusiast%20%7C%20Network%20Engineer%20%7C%20CTF%20Player&descAlignY=60&descAlign=50"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ida-bagus-kade-rama-ardana-720376310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ida-bagus-kade-rama-ardana-720376310" height="30" width="40" /></a>
-<a href="https://instagram.com/dead.networkyz2077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dead.networkyz2077" height="30" width="40" /></a>
-<a href="https://medium.com/@idaramaardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@idaramaardana" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/cghGu5vruy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cghGu5vruy" height="30" width="40" /></a>
+# 👋 Hello, I'm Ida Rama Ardana
+
+### Cyber Security Enthusiast • Infrastructure Engineer • CTF Player
+
+> Passionate in Cyber Security, Network Engineering, Infrastructure Deployment, and Security Research.  
+> Actively exploring offensive security, defensive infrastructure, and enterprise-grade system deployment.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=idaramaardana&label=Profile%20Views&color=0891b2&style=for-the-badge" />
 </p>
 
-<h3 align="left">Grind Till The Edge:</h3>
+</div>
 
-<p align="left">
-  <a href="https://tryhackme.com/p/deadnwkyz" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/deadnwkyz.png" 
-         alt="TryHackMe Badge" width="300">
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/idaramaardn/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="https://www.instagram.com/idakaderama/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
 </p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" 
-       alt="HackTheBox" width="60" />
+---
+
+# 🧠 Grind Till The Edge
+
+<p align="center">
+  <a href="https://tryhackme.com/p/deadnwkyz">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/deadnwkyz.png" alt="TryHackMe Badge" />
+  </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+# 💻 Development Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bash,cpp,php,python" />
+</p>
+
+---
+
+# 🗄️ Database Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb" />
+  <img src="https://img.shields.io/badge/PHPMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
+</p>
+
+---
+
+# 🌐 Web / Server Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apache" />
+</p>
+
+---
+
+# 🏗️ Infrastructure & Virtualization
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Server%202012-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Server%202016-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Server%202019-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu,debian" />
+</p>
+
+---
+
+# 🖥️ Operating Systems Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows%20ME-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20XP-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%20Vista-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%208-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%208.1-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ubuntu,debian,opensuse,fedora,arch,bsd" />
+</p>
+
+---
+
+# 🔐 Penetration Testing Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BackTrack-111827?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parrot%20OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black"/>
+</p>
+
+---
+
+# 🛡️ Security / Firewall Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-026C9C?style=for-the-badge&logo=wazuh&logoColor=white"/>
+</p>
+
+---
+
+# 🌍 Networking Vendor Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TP--Link-4ACBD6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/D--Link-F58220?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Aruba-FF8300?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ruijie%20%2F%20Reyee-E60012?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Huawei-C7000B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HPE-00B388?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ruckus-EA0029?style=for-the-badge"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idaramaardana&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idaramaardana&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+<div align="center">
+
+### "Security is not a product, but a process."
+
+</div>
