@@ -60,7 +60,9 @@
 # 🌐 Web / Server Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apache" />
+  <a href="https://httpd.apache.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=apache" height="55"/>
+  </a>
 </p>
 
 ---
@@ -80,18 +82,64 @@
 # 🖥️ Operating Systems Experience
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows%20ME-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%20XP-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%20Vista-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%208-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%208.1-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<a href="https://www.microsoft.com/windows" target="_blank">
+<img src="https://img.shields.io/badge/Windows%20ME-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+<a href="https://www.microsoft.com/windows" target="_blank">
+<img src="https://img.shields.io/badge/Windows%20XP-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+<a href="https://www.microsoft.com/windows" target="_blank">
+<img src="https://img.shields.io/badge/Windows%20Vista-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+<a href="https://www.microsoft.com/windows" target="_blank">
+<img src="https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+<a href="https://www.microsoft.com/windows" target="_blank">
+<img src="https://img.shields.io/badge/Windows%208-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+<a href="https://www.microsoft.com/windows" target="_blank">
+<img src="https://img.shields.io/badge/Windows%208.1-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+<a href="https://www.microsoft.com/windows" target="_blank">
+<img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+<a href="https://www.microsoft.com/windows" target="_blank">
+<img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,debian,opensuse,fedora,arch,bsd" />
+
+<a href="https://ubuntu.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ubuntu" height="50"/>
+</a>
+
+<a href="https://www.debian.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=debian" height="50"/>
+</a>
+
+<a href="https://www.opensuse.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/opensuse/73BA25" height="50"/>
+</a>
+
+<a href="https://fedoraproject.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=fedora" height="50"/>
+</a>
+
+<a href="https://www.openbsd.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/openbsd/F2CA30" height="50"/>
+</a>
+
+<a href="https://www.freebsd.org/" target="_blank">
+<img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="50"/>
+</a>
+
+<a href="https://archlinux.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=arch" height="50"/>
+</a>
+
 </p>
 
 ---
@@ -135,14 +183,19 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idaramaardana&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idaramaardana&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <a href="https://github.com/idaramaardana">
+    <img src="https://github-readme-stats.vercel.app/api?username=idaramaardana&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  </a>
+
+  <a href="https://github.com/idaramaardana">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idaramaardana&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-### "Security is not a product, but a process."
+### IT SOLUTION • CYBER SECURITY • NETWORKING • TECHNICIAN
 
 </div>
