@@ -8,7 +8,7 @@
 
 `IT SOLUTION` • `CYBER SECURITY` • `NETWORK ENGINEERING` • `TECHNICIAN`
 
-<sub>Deploying, Securing, and Maintaining Modern Infrastructure</sub>
+<sub>Deploying, Securing, and Maintaining Infrastructure</sub>
 
 </td>
 </tr>
